@@ -131,8 +131,8 @@ header {
 }
 
 
-/* fourth section */
-.fourth {
+/* third section */
+.third {
    background-color: #e5e7eb; 
    display: flex;
    flex-direction: column;
@@ -141,14 +141,14 @@ header {
    justify-content: center;
 }
 
-.fourth p:first-child {
+.third p:first-child {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
     color: #1f2937;
 }
 
-.fourth p:nth-child(2) {
+.third p:nth-child(2) {
     margin-left: auto;
     font-weight: bold;
 }
