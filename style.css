@@ -129,3 +129,26 @@ header {
     font-size: 36px;
     padding-bottom: 60px;
 }
+
+
+/* fourth section */
+.fourth {
+   background-color: #e5e7eb; 
+   display: flex;
+   flex-direction: column;
+   min-height: 300px;
+   /* align-items: center; */
+   justify-content: center;
+}
+
+.fourth p:first-child {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.fourth p:nth-child(2) {
+    margin-left: auto;
+    font-weight: bold;
+}
